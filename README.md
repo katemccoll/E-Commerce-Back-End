@@ -48,6 +48,14 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 npm install
 
+Create a .env file with this format:
+
+DB_NAME='ecommerce_db'
+
+DB_USER=<insert user name>
+
+DB_PW=<insert password>
+
 npm run seed
 
 ## Usage
