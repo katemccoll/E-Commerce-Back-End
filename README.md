@@ -6,7 +6,8 @@
 Task is to build the back end for an e-commerce site by modifying starter code. 
 This includes a working Express.js API to use Sequelize to interact with a MySQL database.
 
-### Video Link: https://drive.google.com/file/d/1TNHmpkBnPPpk2I9mEMKvvqk1LNXX3iH5/view
+### Video Link: 
+https://drive.google.com/file/d/1TNHmpkBnPPpk2I9mEMKvvqk1LNXX3iH5/view
 
 
 ## Table of Contents
